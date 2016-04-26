@@ -1,1 +1,3 @@
 # qgisws
+
+formation qgis python 
